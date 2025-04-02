@@ -4,7 +4,7 @@ pubDatetime: 2025-02-07
 title: Solidity 数据类型与传递方式
 slug: solidity-data-types
 featured: false
-draft: false
+draft: true
 tags:
   - web3
   - solodity
